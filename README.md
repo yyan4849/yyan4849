@@ -8,7 +8,7 @@
 - Trying to solve leetcode problems in **Java**.
 - Bachelor degree in **UX/UI** design.
 - Personality in [INTP](https://www.16personalities.com/intp-personality).
-- Pronouns: Her/she
+- Pronouns: Her/She
 <!-- **yyan4849/yyan4849** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
