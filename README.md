@@ -1,5 +1,5 @@
 
-##  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there! 
+##  👯 Hi there! 
 
 - I am Kyia Yang. I come from China, and currently doing my Master degree in Unimelb. I like to explore unknown things. I’m learning Java, DB, Algo, and basic network knowledges as my first semester courses.
 
